@@ -1,0 +1,32 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+pinn-vs-fdm/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+*.lfs
