@@ -1,4 +1,4 @@
-# Development and opt
+# Development and Optimization of Physics-Informed Neural Networks for solving Partial Differential Equations
 <p align="center">
   <a href=""> 📃 Paper</a> |  
   <a href="batyr.sharimbaev@gmail.com"> 📭 Contact 1</a> 
